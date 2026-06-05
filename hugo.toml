@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Lime Zest Email Tips"
+theme = "custom"
+
+[params]
+  description = "Email marketing tips: subject lines, list segmentation, automation flows and deliverability."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
